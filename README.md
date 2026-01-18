@@ -55,4 +55,4 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ## Contact
 
-For any questions or feedback, please contact me at (katiyarsarthak8@gmail.com).
+For any questions or feedback, please contact me at (sarthakkatiyar1970@gmail.com).
